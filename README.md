@@ -25,7 +25,7 @@ Assume that `$` is a command line prompt.
 You might have to `sudo make install` instead of `make install`.
 
 ## Usage
-Follow `README` file of the original program.
+Follow `README_DME2` file of the original program.
 
 ## License
 Just like the original program, it follows GNU GPL.

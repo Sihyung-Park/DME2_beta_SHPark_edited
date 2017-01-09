@@ -13,18 +13,18 @@ Tested on Ubuntu 10.04.4 at 2017/01/09.
 ## Requirements
 Just like the original program, it requires `popt` library.
 
-## installation
+## Installation
 ```
 $ git clone https://github.com/Sihyung-Park/DME2_beta_fixed
 $ cd DME2_beta_fixed
 $ make && make install
 ```
 
-Assume that `$` is a command line prompt.
+`$` is a command line prompt.
 
 You might have to `sudo make install` instead of `make install`.
 
-## Usage
+## Use
 Follow `README_DME2` file of the original program.
 
 ## License

@@ -15,7 +15,7 @@ Just like the original program, it requires `popt` library.
 
 ## installation
 ```
-$ git clone https://github.com/Sihyung-Park/DME2_beta_SHPark_edited
+$ git clone https://github.com/Sihyung-Park/DME2_beta_fixed
 $ cd DME2_beta_SHPark_edited
 $ make && make install
 ```

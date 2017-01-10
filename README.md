@@ -6,7 +6,7 @@ Original source code is available [here](http://smithlabresearch.org/software/dm
 
 I tried to install it, but both of the sources returned many errors when trying to compile and install them.
 I just edited the source code a little to make it **actually INSTALLABLE**.  
-Notice that I did not add, delete or modify any process of motif searching.
+Note that I did not add, delete or modify any process of motif searching.
 
 Tested on Ubuntu 10.04.4 at 2017/01/09.
 
